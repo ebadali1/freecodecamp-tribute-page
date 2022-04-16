@@ -1,0 +1,89 @@
+* {
+    color: black;
+    font-family: 'Anek Odia', sans-serif;
+    font-size: 1rem;
+    line-height: 1;
+    text-align: center;
+    margin: 0;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+
+#headings {
+    font-size: 2rem;
+
+}
+
+
+#main {
+
+    margin: 50px 30px;
+    padding: 10px;
+    background-color: #eee;
+    border-radius: 15px;
+}
+
+#title {
+    font-size: 4rem;
+
+}
+
+#title:hover {
+    font-size: 6rem;
+
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#img-div {
+    background-color: white;
+    padding: 20px 100px;
+    border-radius: 10px;
+    margin: 20px;
+
+}
+
+#img-caption {
+    margin: 15px 0 5px 0;
+}
+
+
+
+#tribute-info {
+    padding: 50px 160px;
+}
+
+#tribute-link {
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#btn {
+
+    padding: 10px 30px;
+    background-color: rgb(125, 177, 177);
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+#footer .pfirst {
+    font-size: 2rem;
+
+}
+
+#footer .psecond {
+    font-size: 1.5rem;
+    color: black;
+    font-weight: bold;
+
+}
